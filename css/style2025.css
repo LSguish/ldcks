@@ -124,7 +124,7 @@ footer p {
 /* Imagem de fundo para telas menores */
 @media (max-width: 768px) {
   .background {
-    background: url('/images/LzyI5otf6igB.webp') no-repeat center center;
+    background: url('/images/lotdef.webp') no-repeat center center;
     background-size: cover;
     filter: blur(3px);
   }
